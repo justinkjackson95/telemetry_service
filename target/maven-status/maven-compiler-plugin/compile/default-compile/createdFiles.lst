@@ -1,0 +1,6 @@
+com\example\telemetry\DeviceTelemetryServiceApplication.class
+com\example\telemetry\model\Telemetry.class
+com\example\telemetry\controller\DeviceController.class
+com\example\telemetry\repository\DeviceRepository.class
+com\example\telemetry\model\Device.class
+com\example\telemetry\repository\TelemetryRepository.class
